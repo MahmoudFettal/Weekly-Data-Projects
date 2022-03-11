@@ -2,7 +2,7 @@
     <b>Weekly Data Project</b>
 </h1>
   
-<p align="center">
+<p>
    <a href="https://github.com/MahmoudFettal/Weekly-Data-Projects/blob/master/LICENSE">
       <img alt="GitHub Licence" src="https://img.shields.io/github/license/MahmoudFettal/Weekly-Data-Projects?style=for-the-badge&label=License"/>
    </a> 
@@ -17,10 +17,8 @@
    </a>
 <p>
 
-<hr>
-
 <h2><b>Dependencies</b></h2>
-<p align="center">
+<p>
     <img src="https://img.shields.io/badge/numpy-038C7F?style=for-the-badge&logo=numpy&logoColor=white"/>
     <img src="https://img.shields.io/badge/pandas-038C7F?style=for-the-badge&logo=pandas&logoColor=white"/>
     <img src="https://img.shields.io/badge/matplotlib-038C7F?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -42,3 +40,7 @@
         </a>
     </li>
 </ul>
+
+<h2><b>Support</b></h2>
+
+**:thumbsup: Your support means a lot. Thank you for stars that keeps me motivated to share new ideas and do them fast.**
